@@ -49,10 +49,9 @@ try:
     #puttting all of our usefull info into a list to be printed out
     game_info = remove_html_markup(name), remove_html_markup(description), remove_html_markup(players), remove_html_markup(playing_time) 
 
-    print(game_info[0])
-    print(game_info[1])
-    print(game_info[2])
-    print(game_info[3])
+    for i in game_info:
+        print(game_info[i])
+
 
 # if no game was found
 except:
