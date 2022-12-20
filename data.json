@@ -357,7 +357,7 @@
             "upc": "689076522397",
             "num_distributors": 5,
             "trending_rank": 0,
-            "listing_clicks": 0,
+            "listing_clicks": 7,
             "is_historical_low": false,
             "skus": [
                 "TCI 001",
@@ -381,7 +381,8 @@
                 "MDGHI01909",
                 "605334g",
                 "2148835010",
-                "2147911505"
+                "2147911505",
+                "2148820057"
             ],
             "sku_objects": [
                 {
@@ -471,6 +472,10 @@
                 {
                     "name": "Noble Knight Games",
                     "sku": "2147911505"
+                },
+                {
+                    "name": "Noble Knight Games",
+                    "sku": "2148820057"
                 }
             ],
             "edit_url": "/products/listing-edit?objectId=D0OHY8b8Oc&product_line=Board Games&type=product",
